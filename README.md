@@ -1,1 +1,2 @@
-# NoVNC-Reverse-Proxy
+# Nginx-Reverse-Proxy 
+including NoVNC websocket
