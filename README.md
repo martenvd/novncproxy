@@ -1,2 +1,2 @@
-# Nginx-Reverse-Proxy 
-including NoVNC websocket
+# Nginx reverse proxy 
+Example of an Nginx reverse proxy including NoVNC websocket
